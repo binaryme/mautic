@@ -1,7 +1,7 @@
 <div align="center">
 	
-<img src=".github/readme_logo.png" alt="Mautic Open Source Marketing Automation" width="150" height="150">
-	<h1 align="center"><b>Mautic</b></h1>
+<img src=".github/readme_logo.png" alt="Prime Sentia Open Source Marketing Automation" width="150" height="150">
+	<h1 align="center"><b>Prime Sentia</b></h1>
 	<p align="center">
 		Open Source Marketing Automation Software.
     <br />
@@ -24,13 +24,13 @@
 <h2 align="center">⭐ Like what we're doing? Give us a star ⬆️</h2>
 
 
-## 🗒️ About Mautic
+## 🗒️ About Prime Sentia
 
-Mautic is the world’s largest open source marketing automation project. We empower businesses and organizations to deliver fully integrated marketing campaigns by providing powerful, world-class open source marketing automation software supported by a thriving, worldwide community of passionate contributors.
+Prime Sentia is the world’s largest open source marketing automation project. We empower businesses and organizations to deliver fully integrated marketing campaigns by providing powerful, world-class open source marketing automation software supported by a thriving, worldwide community of passionate contributors.
 
 Our vision is to be the most privacy-focused, accessible and extendable marketing automation product on the market, giving everyone the power to understand, manage and grow their business or organization while respecting and safeguarding the privacy of their end users.
 
-In short: Mautic is the most privacy-focused, accessible and extendable marketing automation product on the market.
+In short: Prime Sentia is the most privacy-focused, accessible and extendable marketing automation product on the market.
 
 ### ✨ Benefits over regular marketing automation tools
 
@@ -46,13 +46,13 @@ In short: Mautic is the most privacy-focused, accessible and extendable marketin
 
 Stay up to date about initiatives, releases and strategy via our [blog][mautic-blog].
 
-Marketing automation has historically been difficult to implement within organisations. The Mautic Community is an example of open source at its best, offering great software and a vibrant and caring community in which to learn and share knowledge.
+Marketing automation has historically been difficult to implement within organisations. The Prime Sentia Community is an example of open source at its best, offering great software and a vibrant and caring community in which to learn and share knowledge.
 
 Open source means more than open code. Open source provides equality for all and a chance for everyone to improve.
 
 <div align="center">
 	
-<img src=".github/readme_image.png" alt="Mautic Open Source Marketing Automation">
+<img src=".github/readme_image.png" alt="Prime Sentia Open Source Marketing Automation">
 
 </div>
 
@@ -66,7 +66,7 @@ Calling all potential contributors to open source! Get started quickly and show 
 
 If you have questions, [check how to contribute](#-contribution).
 
-## Using Mautic
+## Using Prime Sentia
 
 ### ☁️ Deploy instantly with our Trials
 
@@ -82,10 +82,10 @@ Check out the [requirements for installation][requirements] and [supported versi
 
 ### Installation
 > [!WARNING]
-> <sub>*Install from GitHub only if you are comfortable using the command line and are working locally. You'll be required to use various CLI commands to get Mautic working and keep it working. If the source/database schema gets out of sync with Mautic releases, the release updater may not work and will require manual updates. For production, we recommend installing with Composer, or using the pre-packaged Mautic which is available at [mautic.org/download][download-mautic].*
+> <sub>*Install from GitHub only if you are comfortable using the command line and are working locally. You'll be required to use various CLI commands to get Mautic working and keep it working. If the source/database schema gets out of sync with Prime Sentia releases, the release updater may not work and will require manual updates. For production, we recommend installing with Composer, or using the pre-packaged Mautic which is available at [mautic.org/download][download-mautic].*
 *Also note that source code outside of a [tagged release][tagged-release] should be considered ‘alpha’. It may contain bugs, cause unexpected results, data corruption or loss, and is not recommended for use in a production environment. Use at your own risk.*</sub>
 
-### How to install Mautic
+### How to install Prime Sentia
 You must already have [Composer][composer] available on your computer because this is a development release and you'll need Composer to download the vendor packages.
 
 Also note that if you have DDEV installed, you can run 'ddev start' as a DDEV project’s configuration is present in the repo. This will kick off the Mautic first-run process which will automatically install dependencies and configure Mautic for use. ✨ 🚀 Read more [here][ddev-mautic]
